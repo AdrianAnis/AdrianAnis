@@ -1,16 +1,29 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**AdrianAnis/AdrianAnis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Adrian.
 
-Here are some ideas to get you started:
+> _I enjoy building apps, designing interfaces, and pretending bugs don't exist until production._
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/adrian-anis-pratama/) •
+[Email](mailto:adriananis06@gmail.com)
+
+</div>
+
+## Toolbox
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,flutter,dart,supabase,mysql,git,figma,vscode" />
+</p>
+
+## Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AdrianAnis&show_icons=true&hide_border=true&theme=transparent" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianAnis&layout=compact&hide_border=true&theme=transparent" />
+</p>
+
+---
+
+<p align="center">
+  <img src="./assets/tenor.gif" width="320" alt="Hero GIF">
+</p>
