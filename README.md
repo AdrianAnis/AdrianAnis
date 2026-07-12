@@ -18,8 +18,8 @@
 ## Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AdrianAnis&show_icons=true&hide_border=true&theme=transparent" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianAnis&layout=compact&hide_border=true&theme=transparent" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=AdrianAnis&show_icons=true&hide_border=true&theme=transparent" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AdrianAnis&layout=compact&hide_border=true&theme=transparent" />
 </p>
 
 ---
