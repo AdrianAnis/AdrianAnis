@@ -2,7 +2,7 @@
 
 # Hey, I'm Adrian.
 
-> _I enjoy building apps, designing interfaces, and pretending bugs don't exist until production._
+> _I enjoy building apps and designing interfaces — sometimes both at once._
 
 [LinkedIn](https://www.linkedin.com/in/adrian-anis-pratama/) •
 [Email](mailto:adriananis06@gmail.com)
