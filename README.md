@@ -11,14 +11,13 @@
 
 ## Toolbox
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,flutter,dart,supabase,mysql,git,figma,vscode" />
 </p>
 
 ## Stats
 
 <p align="center">
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=AdrianAnis&show_icons=true&hide_border=true&theme=transparent" />
   <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AdrianAnis&layout=compact&hide_border=true&theme=transparent" />
 </p>
 
